@@ -7,6 +7,7 @@ export default function Home() {
       <nav>
         <Link href="/">Home</Link>
         <Link href="/support">Support</Link>
+        <Link href="/privacy">Privacy Policy</Link>
       </nav>
 
       <div className="hero">

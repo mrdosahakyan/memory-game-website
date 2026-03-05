@@ -11,6 +11,7 @@ export default function Support() {
       <nav>
         <Link href="/">Home</Link>
         <Link href="/support">Support</Link>
+        <Link href="/privacy">Privacy Policy</Link>
       </nav>
 
       <h1>Support</h1>
